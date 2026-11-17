@@ -1,0 +1,14 @@
+[
+  {
+    "link": "D1",
+    "before": "E1-documents_received",
+    "after": "E1-approved",
+    "meaning": "required"
+  },
+  {
+    "link": "D2",
+    "before": "E2-approved",
+    "after": "E2-first_class",
+    "meaning": "required"
+  }
+]

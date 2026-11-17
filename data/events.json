@@ -1,0 +1,1298 @@
+[
+  {
+    "event": "E0-applied",
+    "instance": "J0",
+    "person": "L0",
+    "course": "C0",
+    "kind": "applied",
+    "time": "2026-09-01",
+    "precision": "day"
+  },
+  {
+    "event": "E0-documents_received",
+    "instance": null,
+    "person": "L0",
+    "course": null,
+    "kind": "documents_received",
+    "time": "2026-09-02",
+    "precision": "day"
+  },
+  {
+    "event": "E0-approved",
+    "instance": "J0",
+    "person": "L0",
+    "course": "C0",
+    "kind": "approved",
+    "time": "2026-09-04",
+    "precision": "day"
+  },
+  {
+    "event": "E0-first_class",
+    "instance": "J0",
+    "person": "L0",
+    "course": "C0",
+    "kind": "first_class",
+    "time": "2026-09-07",
+    "precision": "day"
+  },
+  {
+    "event": "E1-applied",
+    "instance": "J1",
+    "person": "L1",
+    "course": "C1",
+    "kind": "applied",
+    "time": "2026-09-02T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E1-documents_received",
+    "instance": "J1",
+    "person": "L1",
+    "course": "C1",
+    "kind": "documents_received",
+    "time": "2026-09-03T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E1-approved",
+    "instance": "J1",
+    "person": "L1",
+    "course": "C1",
+    "kind": "approved",
+    "time": "2026-09-05T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E1-first_class",
+    "instance": "J1",
+    "person": "L1",
+    "course": "C1",
+    "kind": "first_class",
+    "time": "2026-09-08T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E1-completed",
+    "instance": "J1",
+    "person": "L1",
+    "course": "C1",
+    "kind": "completed",
+    "time": "2026-10-20T10:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E2-applied",
+    "instance": "J2",
+    "person": "L2",
+    "course": "C2",
+    "kind": "applied",
+    "time": "2026-09-03T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E2-documents_received",
+    "instance": "J2",
+    "person": "L2",
+    "course": "C2",
+    "kind": "documents_received",
+    "time": "2026-09-04T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E2-approved",
+    "instance": "J2",
+    "person": "L2",
+    "course": "C2",
+    "kind": "approved",
+    "time": "2026-09-06T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E2-first_class",
+    "instance": "J2",
+    "person": "L2",
+    "course": "C2",
+    "kind": "first_class",
+    "time": "2026-09-09T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E2-completed",
+    "instance": "J2",
+    "person": "L2",
+    "course": "C2",
+    "kind": "completed",
+    "time": "2026-10-20T10:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E3-applied",
+    "instance": "J3",
+    "person": "L3",
+    "course": "C0",
+    "kind": "applied",
+    "time": "2026-09-04T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E3-documents_received",
+    "instance": "J3",
+    "person": "L3",
+    "course": "C0",
+    "kind": "documents_received",
+    "time": "2026-09-05T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E3-approved",
+    "instance": "J3",
+    "person": "L3",
+    "course": "C0",
+    "kind": "approved",
+    "time": "2026-09-07T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E3-first_class",
+    "instance": "J3",
+    "person": "L3",
+    "course": "C0",
+    "kind": "first_class",
+    "time": "2026-09-10T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E3-completed",
+    "instance": "J3",
+    "person": "L3",
+    "course": "C0",
+    "kind": "completed",
+    "time": "2026-10-20T10:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E4-applied",
+    "instance": "J4",
+    "person": "L4",
+    "course": "C1",
+    "kind": "applied",
+    "time": "2026-09-05T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E4-documents_received",
+    "instance": "J4",
+    "person": "L4",
+    "course": "C1",
+    "kind": "documents_received",
+    "time": "2026-09-06T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E4-approved",
+    "instance": "J4",
+    "person": "L4",
+    "course": "C1",
+    "kind": "approved",
+    "time": "2026-09-08T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E4-first_class",
+    "instance": "J4",
+    "person": "L4",
+    "course": "C1",
+    "kind": "first_class",
+    "time": "2026-09-11T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E5-applied",
+    "instance": "J5",
+    "person": "L5",
+    "course": "C2",
+    "kind": "applied",
+    "time": "2026-09-06",
+    "precision": "day"
+  },
+  {
+    "event": "E5-documents_received",
+    "instance": "J5",
+    "person": "L5",
+    "course": "C2",
+    "kind": "documents_received",
+    "time": "2026-09-07",
+    "precision": "day"
+  },
+  {
+    "event": "E5-approved",
+    "instance": "J5",
+    "person": "L5",
+    "course": "C2",
+    "kind": "approved",
+    "time": "2026-09-09",
+    "precision": "day"
+  },
+  {
+    "event": "E5-first_class",
+    "instance": "J5",
+    "person": "L5",
+    "course": "C2",
+    "kind": "first_class",
+    "time": "2026-09-12",
+    "precision": "day"
+  },
+  {
+    "event": "E5-completed",
+    "instance": "J5",
+    "person": "L5",
+    "course": "C2",
+    "kind": "completed",
+    "time": "2026-10-20T10:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E6-applied",
+    "instance": "J6",
+    "person": "L6",
+    "course": "C0",
+    "kind": "applied",
+    "time": "2026-09-07T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E6-documents_received",
+    "instance": "J6",
+    "person": "L6",
+    "course": "C0",
+    "kind": "documents_received",
+    "time": "2026-09-08T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E6-approved",
+    "instance": "J6",
+    "person": "L6",
+    "course": "C0",
+    "kind": "approved",
+    "time": "2026-09-10T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E6-first_class",
+    "instance": "J6",
+    "person": "L6",
+    "course": "C0",
+    "kind": "first_class",
+    "time": "2026-09-13T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E6-completed",
+    "instance": "J6",
+    "person": "L6",
+    "course": "C0",
+    "kind": "completed",
+    "time": "2026-10-20T10:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E7-applied",
+    "instance": "J7",
+    "person": "L7",
+    "course": "C1",
+    "kind": "applied",
+    "time": "2026-09-08T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E7-documents_received",
+    "instance": null,
+    "person": "L7",
+    "course": null,
+    "kind": "documents_received",
+    "time": "2026-09-09T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E7-approved",
+    "instance": "J7",
+    "person": "L7",
+    "course": "C1",
+    "kind": "approved",
+    "time": "2026-09-11T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E7-first_class",
+    "instance": "J7",
+    "person": "L7",
+    "course": "C1",
+    "kind": "first_class",
+    "time": "2026-09-14T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E7-completed",
+    "instance": "J7",
+    "person": "L7",
+    "course": "C1",
+    "kind": "completed",
+    "time": "2026-10-20T10:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E8-applied",
+    "instance": "J8",
+    "person": "L8",
+    "course": "C2",
+    "kind": "applied",
+    "time": "2026-09-09T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E8-documents_received",
+    "instance": "J8",
+    "person": "L8",
+    "course": "C2",
+    "kind": "documents_received",
+    "time": "2026-09-10T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E8-approved",
+    "instance": "J8",
+    "person": "L8",
+    "course": "C2",
+    "kind": "approved",
+    "time": "2026-09-12T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E8-first_class",
+    "instance": "J8",
+    "person": "L8",
+    "course": "C2",
+    "kind": "first_class",
+    "time": "2026-09-15T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E9-applied",
+    "instance": "J9",
+    "person": "L9",
+    "course": "C0",
+    "kind": "applied",
+    "time": "2026-09-10T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E9-documents_received",
+    "instance": "J9",
+    "person": "L9",
+    "course": "C0",
+    "kind": "documents_received",
+    "time": "2026-09-11T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E9-approved",
+    "instance": "J9",
+    "person": "L9",
+    "course": "C0",
+    "kind": "approved",
+    "time": "2026-09-13T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E9-first_class",
+    "instance": "J9",
+    "person": "L9",
+    "course": "C0",
+    "kind": "first_class",
+    "time": "2026-09-16T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E9-completed",
+    "instance": "J9",
+    "person": "L9",
+    "course": "C0",
+    "kind": "completed",
+    "time": "2026-10-20T10:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E10-applied",
+    "instance": "J10",
+    "person": "L10",
+    "course": "C1",
+    "kind": "applied",
+    "time": "2026-09-01",
+    "precision": "day"
+  },
+  {
+    "event": "E10-documents_received",
+    "instance": "J10",
+    "person": "L10",
+    "course": "C1",
+    "kind": "documents_received",
+    "time": "2026-09-02",
+    "precision": "day"
+  },
+  {
+    "event": "E10-approved",
+    "instance": "J10",
+    "person": "L10",
+    "course": "C1",
+    "kind": "approved",
+    "time": "2026-09-04",
+    "precision": "day"
+  },
+  {
+    "event": "E10-first_class",
+    "instance": "J10",
+    "person": "L10",
+    "course": "C1",
+    "kind": "first_class",
+    "time": "2026-09-07",
+    "precision": "day"
+  },
+  {
+    "event": "E10-completed",
+    "instance": "J10",
+    "person": "L10",
+    "course": "C1",
+    "kind": "completed",
+    "time": "2026-10-20T10:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E11-applied",
+    "instance": "J11",
+    "person": "L11",
+    "course": "C2",
+    "kind": "applied",
+    "time": "2026-09-02T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E11-documents_received",
+    "instance": "J11",
+    "person": "L11",
+    "course": "C2",
+    "kind": "documents_received",
+    "time": "2026-09-03T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E11-approved",
+    "instance": "J11",
+    "person": "L11",
+    "course": "C2",
+    "kind": "approved",
+    "time": "2026-09-05T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E11-first_class",
+    "instance": "J11",
+    "person": "L11",
+    "course": "C2",
+    "kind": "first_class",
+    "time": "2026-09-08T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E11-completed",
+    "instance": "J11",
+    "person": "L11",
+    "course": "C2",
+    "kind": "completed",
+    "time": "2026-10-20T10:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E12-applied",
+    "instance": "J12",
+    "person": "L0",
+    "course": "C0",
+    "kind": "applied",
+    "time": "2026-09-03T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E12-documents_received",
+    "instance": "J12",
+    "person": "L0",
+    "course": "C0",
+    "kind": "documents_received",
+    "time": "2026-09-04T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E12-approved",
+    "instance": "J12",
+    "person": "L0",
+    "course": "C0",
+    "kind": "approved",
+    "time": "2026-09-06T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E12-first_class",
+    "instance": "J12",
+    "person": "L0",
+    "course": "C0",
+    "kind": "first_class",
+    "time": "2026-09-09T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E13-applied",
+    "instance": "J13",
+    "person": "L1",
+    "course": "C1",
+    "kind": "applied",
+    "time": "2026-09-04T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E13-documents_received",
+    "instance": "J13",
+    "person": "L1",
+    "course": "C1",
+    "kind": "documents_received",
+    "time": "2026-09-05T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E13-approved",
+    "instance": "J13",
+    "person": "L1",
+    "course": "C1",
+    "kind": "approved",
+    "time": "2026-09-07T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E13-first_class",
+    "instance": "J13",
+    "person": "L1",
+    "course": "C1",
+    "kind": "first_class",
+    "time": "2026-09-10T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E13-completed",
+    "instance": "J13",
+    "person": "L1",
+    "course": "C1",
+    "kind": "completed",
+    "time": "2026-10-20T10:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E14-applied",
+    "instance": "J14",
+    "person": "L2",
+    "course": "C2",
+    "kind": "applied",
+    "time": "2026-09-05T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E14-documents_received",
+    "instance": null,
+    "person": "L2",
+    "course": null,
+    "kind": "documents_received",
+    "time": "2026-09-06T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E14-approved",
+    "instance": "J14",
+    "person": "L2",
+    "course": "C2",
+    "kind": "approved",
+    "time": "2026-09-08T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E14-first_class",
+    "instance": "J14",
+    "person": "L2",
+    "course": "C2",
+    "kind": "first_class",
+    "time": "2026-09-11T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E14-completed",
+    "instance": "J14",
+    "person": "L2",
+    "course": "C2",
+    "kind": "completed",
+    "time": "2026-10-20T10:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E15-applied",
+    "instance": "J15",
+    "person": "L3",
+    "course": "C0",
+    "kind": "applied",
+    "time": "2026-09-06",
+    "precision": "day"
+  },
+  {
+    "event": "E15-documents_received",
+    "instance": "J15",
+    "person": "L3",
+    "course": "C0",
+    "kind": "documents_received",
+    "time": "2026-09-07",
+    "precision": "day"
+  },
+  {
+    "event": "E15-approved",
+    "instance": "J15",
+    "person": "L3",
+    "course": "C0",
+    "kind": "approved",
+    "time": "2026-09-09",
+    "precision": "day"
+  },
+  {
+    "event": "E15-first_class",
+    "instance": "J15",
+    "person": "L3",
+    "course": "C0",
+    "kind": "first_class",
+    "time": "2026-09-12",
+    "precision": "day"
+  },
+  {
+    "event": "E15-completed",
+    "instance": "J15",
+    "person": "L3",
+    "course": "C0",
+    "kind": "completed",
+    "time": "2026-10-20T10:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E16-applied",
+    "instance": "J16",
+    "person": "L4",
+    "course": "C1",
+    "kind": "applied",
+    "time": "2026-09-07T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E16-documents_received",
+    "instance": "J16",
+    "person": "L4",
+    "course": "C1",
+    "kind": "documents_received",
+    "time": "2026-09-08T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E16-approved",
+    "instance": "J16",
+    "person": "L4",
+    "course": "C1",
+    "kind": "approved",
+    "time": "2026-09-10T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E16-first_class",
+    "instance": "J16",
+    "person": "L4",
+    "course": "C1",
+    "kind": "first_class",
+    "time": "2026-09-13T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E17-applied",
+    "instance": "J17",
+    "person": "L5",
+    "course": "C2",
+    "kind": "applied",
+    "time": "2026-09-08T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E17-documents_received",
+    "instance": "J17",
+    "person": "L5",
+    "course": "C2",
+    "kind": "documents_received",
+    "time": "2026-09-09T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E17-approved",
+    "instance": "J17",
+    "person": "L5",
+    "course": "C2",
+    "kind": "approved",
+    "time": "2026-09-11T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E17-first_class",
+    "instance": "J17",
+    "person": "L5",
+    "course": "C2",
+    "kind": "first_class",
+    "time": "2026-09-14T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E17-completed",
+    "instance": "J17",
+    "person": "L5",
+    "course": "C2",
+    "kind": "completed",
+    "time": "2026-10-20T10:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E18-applied",
+    "instance": "J18",
+    "person": "L6",
+    "course": "C0",
+    "kind": "applied",
+    "time": "2026-09-09T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E18-documents_received",
+    "instance": "J18",
+    "person": "L6",
+    "course": "C0",
+    "kind": "documents_received",
+    "time": "2026-09-10T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E18-approved",
+    "instance": "J18",
+    "person": "L6",
+    "course": "C0",
+    "kind": "approved",
+    "time": "2026-09-12T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E18-first_class",
+    "instance": "J18",
+    "person": "L6",
+    "course": "C0",
+    "kind": "first_class",
+    "time": "2026-09-15T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E18-completed",
+    "instance": "J18",
+    "person": "L6",
+    "course": "C0",
+    "kind": "completed",
+    "time": "2026-10-20T10:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E19-applied",
+    "instance": "J19",
+    "person": "L7",
+    "course": "C1",
+    "kind": "applied",
+    "time": "2026-09-10T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E19-documents_received",
+    "instance": "J19",
+    "person": "L7",
+    "course": "C1",
+    "kind": "documents_received",
+    "time": "2026-09-11T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E19-approved",
+    "instance": "J19",
+    "person": "L7",
+    "course": "C1",
+    "kind": "approved",
+    "time": "2026-09-13T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E19-first_class",
+    "instance": "J19",
+    "person": "L7",
+    "course": "C1",
+    "kind": "first_class",
+    "time": "2026-09-16T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E19-completed",
+    "instance": "J19",
+    "person": "L7",
+    "course": "C1",
+    "kind": "completed",
+    "time": "2026-10-20T10:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E20-applied",
+    "instance": "J20",
+    "person": "L8",
+    "course": "C2",
+    "kind": "applied",
+    "time": "2026-09-01",
+    "precision": "day"
+  },
+  {
+    "event": "E20-documents_received",
+    "instance": "J20",
+    "person": "L8",
+    "course": "C2",
+    "kind": "documents_received",
+    "time": "2026-09-02",
+    "precision": "day"
+  },
+  {
+    "event": "E20-approved",
+    "instance": "J20",
+    "person": "L8",
+    "course": "C2",
+    "kind": "approved",
+    "time": "2026-09-04",
+    "precision": "day"
+  },
+  {
+    "event": "E20-first_class",
+    "instance": "J20",
+    "person": "L8",
+    "course": "C2",
+    "kind": "first_class",
+    "time": "2026-09-07",
+    "precision": "day"
+  },
+  {
+    "event": "E21-applied",
+    "instance": "J21",
+    "person": "L9",
+    "course": "C0",
+    "kind": "applied",
+    "time": "2026-09-02T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E21-documents_received",
+    "instance": null,
+    "person": "L9",
+    "course": null,
+    "kind": "documents_received",
+    "time": "2026-09-03T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E21-approved",
+    "instance": "J21",
+    "person": "L9",
+    "course": "C0",
+    "kind": "approved",
+    "time": "2026-09-05T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E21-first_class",
+    "instance": "J21",
+    "person": "L9",
+    "course": "C0",
+    "kind": "first_class",
+    "time": "2026-09-08T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E21-completed",
+    "instance": "J21",
+    "person": "L9",
+    "course": "C0",
+    "kind": "completed",
+    "time": "2026-10-20T10:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E22-applied",
+    "instance": "J22",
+    "person": "L10",
+    "course": "C1",
+    "kind": "applied",
+    "time": "2026-09-03T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E22-documents_received",
+    "instance": "J22",
+    "person": "L10",
+    "course": "C1",
+    "kind": "documents_received",
+    "time": "2026-09-04T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E22-approved",
+    "instance": "J22",
+    "person": "L10",
+    "course": "C1",
+    "kind": "approved",
+    "time": "2026-09-06T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E22-first_class",
+    "instance": "J22",
+    "person": "L10",
+    "course": "C1",
+    "kind": "first_class",
+    "time": "2026-09-09T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E22-completed",
+    "instance": "J22",
+    "person": "L10",
+    "course": "C1",
+    "kind": "completed",
+    "time": "2026-10-20T10:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E23-applied",
+    "instance": "J23",
+    "person": "L11",
+    "course": "C2",
+    "kind": "applied",
+    "time": "2026-09-04T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E23-documents_received",
+    "instance": "J23",
+    "person": "L11",
+    "course": "C2",
+    "kind": "documents_received",
+    "time": "2026-09-05T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E23-approved",
+    "instance": "J23",
+    "person": "L11",
+    "course": "C2",
+    "kind": "approved",
+    "time": "2026-09-07T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E23-first_class",
+    "instance": "J23",
+    "person": "L11",
+    "course": "C2",
+    "kind": "first_class",
+    "time": "2026-09-10T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E23-completed",
+    "instance": "J23",
+    "person": "L11",
+    "course": "C2",
+    "kind": "completed",
+    "time": "2026-10-20T10:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E24-applied",
+    "instance": "J24",
+    "person": "L0",
+    "course": "C0",
+    "kind": "applied",
+    "time": "2026-09-05T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E24-documents_received",
+    "instance": "J24",
+    "person": "L0",
+    "course": "C0",
+    "kind": "documents_received",
+    "time": "2026-09-06T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E24-approved",
+    "instance": "J24",
+    "person": "L0",
+    "course": "C0",
+    "kind": "approved",
+    "time": "2026-09-08T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E24-first_class",
+    "instance": "J24",
+    "person": "L0",
+    "course": "C0",
+    "kind": "first_class",
+    "time": "2026-09-11T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E25-applied",
+    "instance": "J25",
+    "person": "L1",
+    "course": "C1",
+    "kind": "applied",
+    "time": "2026-09-06",
+    "precision": "day"
+  },
+  {
+    "event": "E25-documents_received",
+    "instance": "J25",
+    "person": "L1",
+    "course": "C1",
+    "kind": "documents_received",
+    "time": "2026-09-07",
+    "precision": "day"
+  },
+  {
+    "event": "E25-approved",
+    "instance": "J25",
+    "person": "L1",
+    "course": "C1",
+    "kind": "approved",
+    "time": "2026-09-09",
+    "precision": "day"
+  },
+  {
+    "event": "E25-first_class",
+    "instance": "J25",
+    "person": "L1",
+    "course": "C1",
+    "kind": "first_class",
+    "time": "2026-09-12",
+    "precision": "day"
+  },
+  {
+    "event": "E25-completed",
+    "instance": "J25",
+    "person": "L1",
+    "course": "C1",
+    "kind": "completed",
+    "time": "2026-10-20T10:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E26-applied",
+    "instance": "J26",
+    "person": "L2",
+    "course": "C2",
+    "kind": "applied",
+    "time": "2026-09-07T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E26-documents_received",
+    "instance": "J26",
+    "person": "L2",
+    "course": "C2",
+    "kind": "documents_received",
+    "time": "2026-09-08T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E26-approved",
+    "instance": "J26",
+    "person": "L2",
+    "course": "C2",
+    "kind": "approved",
+    "time": "2026-09-10T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E26-first_class",
+    "instance": "J26",
+    "person": "L2",
+    "course": "C2",
+    "kind": "first_class",
+    "time": "2026-09-13T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E26-completed",
+    "instance": "J26",
+    "person": "L2",
+    "course": "C2",
+    "kind": "completed",
+    "time": "2026-10-20T10:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E27-applied",
+    "instance": "J27",
+    "person": "L3",
+    "course": "C0",
+    "kind": "applied",
+    "time": "2026-09-08T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E27-documents_received",
+    "instance": "J27",
+    "person": "L3",
+    "course": "C0",
+    "kind": "documents_received",
+    "time": "2026-09-09T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E27-approved",
+    "instance": "J27",
+    "person": "L3",
+    "course": "C0",
+    "kind": "approved",
+    "time": "2026-09-11T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E27-first_class",
+    "instance": "J27",
+    "person": "L3",
+    "course": "C0",
+    "kind": "first_class",
+    "time": "2026-09-14T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E27-completed",
+    "instance": "J27",
+    "person": "L3",
+    "course": "C0",
+    "kind": "completed",
+    "time": "2026-10-20T10:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E28-applied",
+    "instance": "J28",
+    "person": "L4",
+    "course": "C1",
+    "kind": "applied",
+    "time": "2026-09-09T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E28-documents_received",
+    "instance": null,
+    "person": "L4",
+    "course": null,
+    "kind": "documents_received",
+    "time": "2026-09-10T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E28-approved",
+    "instance": "J28",
+    "person": "L4",
+    "course": "C1",
+    "kind": "approved",
+    "time": "2026-09-12T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E28-first_class",
+    "instance": "J28",
+    "person": "L4",
+    "course": "C1",
+    "kind": "first_class",
+    "time": "2026-09-15T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E29-applied",
+    "instance": "J29",
+    "person": "L5",
+    "course": "C2",
+    "kind": "applied",
+    "time": "2026-09-10T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E29-documents_received",
+    "instance": "J29",
+    "person": "L5",
+    "course": "C2",
+    "kind": "documents_received",
+    "time": "2026-09-11T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E29-approved",
+    "instance": "J29",
+    "person": "L5",
+    "course": "C2",
+    "kind": "approved",
+    "time": "2026-09-13T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E29-first_class",
+    "instance": "J29",
+    "person": "L5",
+    "course": "C2",
+    "kind": "first_class",
+    "time": "2026-09-16T09:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "E29-completed",
+    "instance": "J29",
+    "person": "L5",
+    "course": "C2",
+    "kind": "completed",
+    "time": "2026-10-20T10:00:00",
+    "precision": "second"
+  },
+  {
+    "event": "reopen-1",
+    "instance": "J1",
+    "person": "L1",
+    "course": "C1",
+    "kind": "reopened",
+    "time": "2026-10-23",
+    "precision": "day"
+  },
+  {
+    "event": "pause-1",
+    "instance": "J4",
+    "person": "L4",
+    "course": "C1",
+    "kind": "pause_requested",
+    "time": "2026-09-15",
+    "precision": "day"
+  }
+]

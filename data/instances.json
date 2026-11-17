@@ -1,0 +1,242 @@
+[
+  {
+    "instance": "J0",
+    "person": "L0",
+    "course": "C0",
+    "campus": "east",
+    "opened": "2026-09-01",
+    "state": "open"
+  },
+  {
+    "instance": "J1",
+    "person": "L1",
+    "course": "C1",
+    "campus": "west",
+    "opened": "2026-09-02",
+    "state": "completed"
+  },
+  {
+    "instance": "J2",
+    "person": "L2",
+    "course": "C2",
+    "campus": "east",
+    "opened": "2026-09-03",
+    "state": "completed"
+  },
+  {
+    "instance": "J3",
+    "person": "L3",
+    "course": "C0",
+    "campus": "west",
+    "opened": "2026-09-04",
+    "state": "completed"
+  },
+  {
+    "instance": "J4",
+    "person": "L4",
+    "course": "C1",
+    "campus": "east",
+    "opened": "2026-09-05",
+    "state": "open"
+  },
+  {
+    "instance": "J5",
+    "person": "L5",
+    "course": "C2",
+    "campus": "west",
+    "opened": "2026-09-06",
+    "state": "completed"
+  },
+  {
+    "instance": "J6",
+    "person": "L6",
+    "course": "C0",
+    "campus": "east",
+    "opened": "2026-09-07",
+    "state": "completed"
+  },
+  {
+    "instance": "J7",
+    "person": "L7",
+    "course": "C1",
+    "campus": "west",
+    "opened": "2026-09-08",
+    "state": "completed"
+  },
+  {
+    "instance": "J8",
+    "person": "L8",
+    "course": "C2",
+    "campus": "east",
+    "opened": "2026-09-09",
+    "state": "open"
+  },
+  {
+    "instance": "J9",
+    "person": "L9",
+    "course": "C0",
+    "campus": "west",
+    "opened": "2026-09-10",
+    "state": "completed"
+  },
+  {
+    "instance": "J10",
+    "person": "L10",
+    "course": "C1",
+    "campus": "east",
+    "opened": "2026-09-01",
+    "state": "completed"
+  },
+  {
+    "instance": "J11",
+    "person": "L11",
+    "course": "C2",
+    "campus": "west",
+    "opened": "2026-09-02",
+    "state": "completed"
+  },
+  {
+    "instance": "J12",
+    "person": "L0",
+    "course": "C0",
+    "campus": "east",
+    "opened": "2026-09-03",
+    "state": "open"
+  },
+  {
+    "instance": "J13",
+    "person": "L1",
+    "course": "C1",
+    "campus": "west",
+    "opened": "2026-09-04",
+    "state": "completed"
+  },
+  {
+    "instance": "J14",
+    "person": "L2",
+    "course": "C2",
+    "campus": "east",
+    "opened": "2026-09-05",
+    "state": "completed"
+  },
+  {
+    "instance": "J15",
+    "person": "L3",
+    "course": "C0",
+    "campus": "west",
+    "opened": "2026-09-06",
+    "state": "completed"
+  },
+  {
+    "instance": "J16",
+    "person": "L4",
+    "course": "C1",
+    "campus": "east",
+    "opened": "2026-09-07",
+    "state": "open"
+  },
+  {
+    "instance": "J17",
+    "person": "L5",
+    "course": "C2",
+    "campus": "west",
+    "opened": "2026-09-08",
+    "state": "completed"
+  },
+  {
+    "instance": "J18",
+    "person": "L6",
+    "course": "C0",
+    "campus": "east",
+    "opened": "2026-09-09",
+    "state": "completed"
+  },
+  {
+    "instance": "J19",
+    "person": "L7",
+    "course": "C1",
+    "campus": "west",
+    "opened": "2026-09-10",
+    "state": "completed"
+  },
+  {
+    "instance": "J20",
+    "person": "L8",
+    "course": "C2",
+    "campus": "east",
+    "opened": "2026-09-01",
+    "state": "open"
+  },
+  {
+    "instance": "J21",
+    "person": "L9",
+    "course": "C0",
+    "campus": "west",
+    "opened": "2026-09-02",
+    "state": "completed"
+  },
+  {
+    "instance": "J22",
+    "person": "L10",
+    "course": "C1",
+    "campus": "east",
+    "opened": "2026-09-03",
+    "state": "completed"
+  },
+  {
+    "instance": "J23",
+    "person": "L11",
+    "course": "C2",
+    "campus": "west",
+    "opened": "2026-09-04",
+    "state": "completed"
+  },
+  {
+    "instance": "J24",
+    "person": "L0",
+    "course": "C0",
+    "campus": "east",
+    "opened": "2026-09-05",
+    "state": "open"
+  },
+  {
+    "instance": "J25",
+    "person": "L1",
+    "course": "C1",
+    "campus": "west",
+    "opened": "2026-09-06",
+    "state": "completed"
+  },
+  {
+    "instance": "J26",
+    "person": "L2",
+    "course": "C2",
+    "campus": "east",
+    "opened": "2026-09-07",
+    "state": "completed"
+  },
+  {
+    "instance": "J27",
+    "person": "L3",
+    "course": "C0",
+    "campus": "west",
+    "opened": "2026-09-08",
+    "state": "completed"
+  },
+  {
+    "instance": "J28",
+    "person": "L4",
+    "course": "C1",
+    "campus": "east",
+    "opened": "2026-09-09",
+    "state": "open"
+  },
+  {
+    "instance": "J29",
+    "person": "L5",
+    "course": "C2",
+    "campus": "west",
+    "opened": "2026-09-10",
+    "state": "completed"
+  }
+]

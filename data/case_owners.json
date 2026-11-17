@@ -1,0 +1,10 @@
+[
+  {
+    "campus": "east",
+    "owner": "east-desk"
+  },
+  {
+    "campus": "west",
+    "owner": "west-desk"
+  }
+]

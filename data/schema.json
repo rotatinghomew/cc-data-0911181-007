@@ -1,0 +1,101 @@
+{
+  "instances": {
+    "key": [
+      "instance"
+    ],
+    "required": [
+      "instance",
+      "person",
+      "course",
+      "campus",
+      "opened",
+      "state"
+    ],
+    "foreign": {}
+  },
+  "events": {
+    "key": [
+      "event"
+    ],
+    "required": [
+      "event",
+      "person",
+      "kind",
+      "time",
+      "precision"
+    ],
+    "foreign": {
+      "instance": [
+        "instances",
+        "instance"
+      ]
+    }
+  },
+  "pauses": {
+    "key": [
+      "pause"
+    ],
+    "required": [
+      "pause",
+      "instance",
+      "start",
+      "reason"
+    ],
+    "foreign": {
+      "instance": [
+        "instances",
+        "instance"
+      ]
+    }
+  },
+  "dependencies": {
+    "key": [
+      "link"
+    ],
+    "required": [
+      "link",
+      "before",
+      "after",
+      "meaning"
+    ],
+    "foreign": {
+      "before": [
+        "events",
+        "event"
+      ],
+      "after": [
+        "events",
+        "event"
+      ]
+    }
+  },
+  "windows": {
+    "key": [
+      "campus"
+    ],
+    "required": [
+      "campus",
+      "start",
+      "end"
+    ],
+    "foreign": {}
+  },
+  "case_owners": {
+    "key": [
+      "campus"
+    ],
+    "required": [
+      "campus"
+    ],
+    "foreign": {}
+  },
+  "assistance_pool": {
+    "key": [
+      "owner"
+    ],
+    "required": [
+      "owner"
+    ],
+    "foreign": {}
+  }
+}
