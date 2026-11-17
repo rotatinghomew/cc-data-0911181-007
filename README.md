@@ -13,7 +13,8 @@ python3 -m app summary
 python3 -m app serve --host 127.0.0.1 --port 8080
 ```
 
-服务提供只读 JSON 查询：`/api/timelines`, `/api/states`。
+服务提供只读 JSON 查询：`/api/timelines`, `/api/states`，以及学习办理过程分析
+`/api/process/instances`, `/api/process/stages`, `/api/process/campuses`, `/api/process/findings`, `/api/process/plan`。
 `/health` 显示存活及表计数，`/api/records?table=表名` 可查看已知数据表。
 详细字段语义、计数单位和当前能力见 `docs/数据契约.md`。
 
@@ -42,12 +43,15 @@ docker run --rm --network none learning-journeys:local python3 smoke.py
 
 ## 业务办理
 
-人工以明确实例开协调单，assistance.allocate 分配校区协助名额，notices.send 在名额确认后发告知并保留当时原因。当前不从流程分析自动识别卡点。
+过程分析从明确归属的事件计算环节耗时：区分并行活动、重复办理、主动暂停与真正卡住（stuck）的环节；未归属事件只列候选不自动配对；day 精度记录只产生整天粒度；未结束流程按校区观察窗口计删失等待，不当作失败。findings 给出带证据的卡点与负责人，plan 在协助名额内给出优先顺序，未覆盖实例标记 unresolved。
+
+人工以明确实例开协调单（可附 evidence；同一材料不重复开冲突单），events.reassign 人工纠正误配事件并释放原负责人名额，assistance.allocate 分配校区协助名额，notices.send 在名额确认后发告知并记录当时依据（basis）；暂停或等待不确定的实例不催促。
 
 业务操作以 JSON 对象 POST 到 `/api/workflow/操作名`，下列操作保留现有函数入参和行为。
 
 - `coordination.open_case`
 - `assistance.allocate`
+- `events.reassign`
 - `notices.send`
 
 业务贯通用例见 `tests/test_workflows.py`，其中为可直接运行的本地调用。默认状态存于内存；需要重启后保留时，可运行 `python3 -m app serve --state /tmp/learning-service.sqlite3`。状态库只保留本机操作，不向外部发送数据。
